@@ -1,0 +1,15 @@
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod8\tpmodul8_1302220005\bin\Debug\net8.0\tpmodul8_1302220005.exe
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod8\tpmodul8_1302220005\bin\Debug\net8.0\tpmodul8_1302220005.deps.json
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod8\tpmodul8_1302220005\bin\Debug\net8.0\tpmodul8_1302220005.runtimeconfig.json
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod8\tpmodul8_1302220005\bin\Debug\net8.0\tpmodul8_1302220005.dll
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod8\tpmodul8_1302220005\bin\Debug\net8.0\tpmodul8_1302220005.pdb
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod8\tpmodul8_1302220005\obj\Debug\net8.0\tpmodul8_1302220005.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod8\tpmodul8_1302220005\obj\Debug\net8.0\tpmodul8_1302220005.AssemblyInfoInputs.cache
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod8\tpmodul8_1302220005\obj\Debug\net8.0\tpmodul8_1302220005.AssemblyInfo.cs
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod8\tpmodul8_1302220005\obj\Debug\net8.0\tpmodul8_1302220005.csproj.CoreCompileInputs.cache
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod8\tpmodul8_1302220005\obj\Debug\net8.0\tpmodul8_1302220005.sourcelink.json
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod8\tpmodul8_1302220005\obj\Debug\net8.0\tpmodul8_1302220005.dll
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod8\tpmodul8_1302220005\obj\Debug\net8.0\refint\tpmodul8_1302220005.dll
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod8\tpmodul8_1302220005\obj\Debug\net8.0\tpmodul8_1302220005.pdb
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod8\tpmodul8_1302220005\obj\Debug\net8.0\tpmodul8_1302220005.genruntimeconfig.cache
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod8\tpmodul8_1302220005\obj\Debug\net8.0\ref\tpmodul8_1302220005.dll
